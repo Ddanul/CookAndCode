@@ -30,7 +30,7 @@ This is an e-commerce site dedicated to cookware items with quirky code related 
 Our BasketItem table is essentially an Entity Join table with a payload of quantity.  These basket items are gathered by user ID and are used to contruct a shopping cart for each user.  Once the user is ready to checkout and purchase, an order item is created and the Order Id is updated to each BasketItem for future reference.
 
 ## Deployed Site
-### https://ddanul.github.io/CookAndCode/
+### https://cookandcode.azurewebsites.net/
 
 ## Vulnerability Report
 
